@@ -1,0 +1,1 @@
+This project and the files that include it are about the National Women's Soccer League and specifically statistics, which provide some context regarding a player's "hustle". These numbers are not metrics that tell the quality of the player. 
